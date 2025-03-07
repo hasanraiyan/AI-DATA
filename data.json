@@ -8,10 +8,10 @@
     },
     {
         "name": "Claude",
-        "url": "https://www.anthropic.com/claude",
+        "url": "https://claude.ai/",
         "color": "#FF6F61",
-        "category": "Chatbots",
-        "description": "Anthropic's AI assistant capable of conversational tasks, offering a focus on safety and reliability."
+        "category": "AI Assistant",
+        "description": "An AI assistant developed by Anthropic, designed to assist with various tasks such as writing, research, coding, and math, utilizing advanced language models to provide detailed and relevant responses."
     },
     {
         "name": "Grok",
@@ -47,6 +47,27 @@
         "color": "#000000",
         "category": "AI Search Engine",
         "description": "An AI-powered conversational search engine that provides direct answers to user queries by integrating large language models with real-time web data, offering cited sources for verification."
-    }   
-    
+    },
+    {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/",
+        "color": "#1E90FF",
+        "category": "Artificial Intelligence",
+        "description": "A French AI startup specializing in open-weight large language models, offering advanced AI solutions and services."
+    },
+    {
+        "name": "Google AI Studio",
+        "url": "https://aistudio.google.com/",
+        "color": "#4285F4",
+        "category": "AI Development Platform",
+        "description": "Google AI Studio is a platform that enables developers to build, deploy, and manage AI models and applications, integrating Google's advanced AI technologies like the Gemini language model."
+    },
+    {
+        "name": "Meta AI",
+        "url": "https://www.meta.ai/",
+        "color": "#4267B2",
+        "category": "AI Research and Development",
+        "description": "Meta AI is the artificial intelligence research division of Meta Platforms, focusing on advancing AI technologies and their applications across various domains."
+    }
+      
 ]
