@@ -3,77 +3,77 @@
         "name": "ChatGPT",
         "url": "https://chat.openai.com/",
         "color": "#10A37F",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "An AI language model developed by OpenAI, designed to generate human-like text based on input prompts."
     },
     {
         "name": "Claude",
         "url": "https://claude.ai/",
         "color": "#FF6F61",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "An AI assistant developed by Anthropic, designed to assist with various tasks such as writing, research, coding, and math, utilizing advanced language models to provide detailed and relevant responses."
     },
     {
         "name": "Grok",
         "url": "https://x.ai/grok",
         "color": "#1DA1F2",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "xAI's chatbot designed to provide an alternative perspective to mainstream AI models, emphasizing free speech."
     },
     {
         "name": "Gemini",
         "url": "https://gemini.google.com/",
         "color": "#4285F4",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "Google's AI chatbot integrated into various services, offering conversational assistance and information retrieval."
     },
     {
         "name": "Character.ai",
         "url": "https://beta.character.ai/",
         "color": "#FF4500",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "A platform allowing users to create and interact with user-generated AI characters, simulating various personalities."
     },
     {
         "name": "DeepSeek Chat",
         "url": "https://chat.deepseek.com/",
         "color": "#FF4500",
-        "category": "AI Chatbot",
+        "category": "Chatbot",
         "description": "DeepSeek Chat is an AI chatbot developed by DeepSeek, capable of answering questions, solving logic problems, and writing computer programs."
     },
     {
         "name": "Microsoft Copilot",
         "url": "https://copilot.microsoft.com/",
         "color": "#00A4EF",
-        "category": "AI Assistant",
+        "category": "Assistant",
         "description": "An AI assistant integrated across Microsoft 365 applications, Windows 11, and Bing, designed to enhance productivity by assisting with tasks like content creation, data analysis, and information retrieval."
     },
     {
         "name": "Perplexity AI",
         "url": "https://www.perplexity.ai/",
         "color": "#000000",
-        "category": "AI Search Engine",
+        "category": "Search",
         "description": "An AI-powered conversational search engine that provides direct answers to user queries by integrating large language models with real-time web data, offering cited sources for verification."
     },
     {
         "name": "Mistral AI",
         "url": "https://mistral.ai/",
         "color": "#1E90FF",
-        "category": "AI Model & Research",
+        "category": "Research",
         "description": "A French AI startup specializing in open-weight large language models, offering advanced AI solutions and services."
     },
     {
         "name": "Google AI Studio",
         "url": "https://aistudio.google.com/",
         "color": "#4285F4",
-        "category": "AI Development Platform",
+        "category": "Platform",
         "description": "Google AI Studio is a platform that enables developers to build, deploy, and manage AI models and applications, integrating Google's advanced AI technologies like the Gemini language model."
     },
     {
         "name": "Meta AI",
         "url": "https://www.meta.ai/",
         "color": "#4267B2",
-        "category": "AI Model & Research",
+        "category": "Research",
         "description": "Meta AI is the artificial intelligence research division of Meta Platforms, focusing on advancing AI technologies and their applications across various domains."
     }
 ]
