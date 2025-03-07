@@ -96,6 +96,75 @@
         "color": "#FF5733",
         "category": "Chatbot",
         "description": "An AI chatbot developed by Inflection AI, designed to function as a personal assistant, providing users with conversational support and information."
+    },
+    {
+        "name": "NotebookLM",
+        "url": "https://notebooklm.google.com/",
+        "color": "#4285F4",
+        "category": "Research",
+        "description": "An AI-powered research and note-taking tool developed by Google Labs, designed to assist users in interacting with their documents by generating summaries, explanations, and answers based on uploaded content."
+    },
+    {
+        "name": "Elicit",
+        "url": "https://elicit.org/",
+        "color": "#5A67D8",
+        "category": "Research",
+        "description": "An AI-powered research assistant that helps automate literature reviews by summarizing and extracting key insights from academic papers."
+    },
+    {
+        "name": "SciSpace",
+        "url": "https://www.scispace.com/",
+        "color": "#FF6F61",
+        "category": "Research",
+        "description": "An AI-powered platform that helps researchers explore, understand, and summarize scientific literature efficiently."
+    },
+    {
+        "name": "Research Rabbit",
+        "url": "https://www.researchrabbit.ai/",
+        "color": "#FF4500",
+        "category": "Research",
+        "description": "An AI-powered tool that helps researchers discover new papers and visualize citation networks for literature reviews."
+    },
+    {
+        "name": "Semantic Scholar",
+        "url": "https://www.semanticscholar.org/",
+        "color": "#1A73E8",
+        "category": "Research",
+        "description": "An AI-powered academic search engine that helps researchers find relevant papers with citation-based recommendations."
+    },
+    {
+        "name": "Eightify",
+        "url": "https://eightify.app/",
+        "color": "#FF8C00",
+        "category": "Summarization",
+        "description": "An AI-powered tool that provides concise summaries of YouTube videos, enabling users to grasp key points quickly."
+    },
+    {
+        "name": "YouTube Digest",
+        "url": "https://chrome.google.com/webstore/detail/youtube-digest-summary-of-y/abcd1234",
+        "color": "#FF0000",
+        "category": "Summarization",
+        "description": "A Chrome extension that generates summaries of YouTube videos, helping users save time by highlighting main ideas."
+    },
+    {
+        "name": "QANDA",
+        "url": "https://qanda.ai/en",
+        "color": "#FF4500",
+        "category": "Education",
+        "description": "An AI-based learning platform that offers solution search, one-on-one tutoring, and study resources for students."
+    },
+    {
+        "name": "Squirrel AI",
+        "url": "https://squirrelai.com/",
+        "color": "#008080",
+        "category": "Education",
+        "description": "An AI-driven adaptive learning platform providing personalized educational experiences to students."
+    },
+    {
+        "name": "Ideogram",
+        "url": "https://ideogram.ai/",
+        "color": "#FF5733",
+        "category": "ImageGeneration",
+        "description": "A text-to-image model developed by Ideogram, Inc., capable of generating digital images from natural language descriptions, including legible text within images."
     }
-            
 ]
