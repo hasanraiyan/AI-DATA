@@ -33,5 +33,13 @@
         "color": "#FF4500",
         "category": "Chatbots",
         "description": "A platform allowing users to create and interact with user-generated AI characters, simulating various personalities."
+    },
+    {
+        "name": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/",
+        "color": "#00A4EF",
+        "category": "AI Assistant",
+        "description": "An AI assistant integrated across Microsoft 365 applications, Windows 11, and Bing, designed to enhance productivity by assisting with tasks like content creation, data analysis, and information retrieval."
     }
+    
 ]
