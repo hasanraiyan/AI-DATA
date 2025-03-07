@@ -40,6 +40,13 @@
         "color": "#00A4EF",
         "category": "AI Assistant",
         "description": "An AI assistant integrated across Microsoft 365 applications, Windows 11, and Bing, designed to enhance productivity by assisting with tasks like content creation, data analysis, and information retrieval."
-    }
+    },
+    {
+        "name": "Perplexity AI",
+        "url": "https://www.perplexity.ai/",
+        "color": "#000000",
+        "category": "AI Search Engine",
+        "description": "An AI-powered conversational search engine that provides direct answers to user queries by integrating large language models with real-time web data, offering cited sources for verification."
+    }   
     
 ]
