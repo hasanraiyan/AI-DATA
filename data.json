@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Gemini",
+    "url": "https://gemini.google.com/",
+    "color": "#4285F4",
+    "description": "Google's conversational AI assistant",
+    "category": "Chatbots"
+  },
+  {
+    "name": "Qwen",
+    "url": "https://chat.qwen.ai/",
+    "color": "#00A1D6",
+    "description": "Alibaba's advanced language model",
+    "category": "Chatbots"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com/",
+    "color": "#10A37F",
+    "description": "OpenAI's popular chat assistant",
+    "category": "Chatbots"
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai/chats",
+    "color": "#5436DA",
+    "description": "Anthropic's helpful AI assistant",
+    "category": "Chatbots"
+  },
+  {
+    "name": "Inception Labs",
+    "url": "https://chat.inceptionlabs.ai/",
+    "color": "#FF5733",
+    "description": "Creative language model for developers",
+    "category": "Developer Tools"
+  }
+]
