@@ -166,5 +166,13 @@
         "color": "#FF5733",
         "category": "ImageGeneration",
         "description": "A text-to-image model developed by Ideogram, Inc., capable of generating digital images from natural language descriptions, including legible text within images."
-    }
+    },
+    {
+      "name": "Mercury Coder",
+      "url": "https://chat.inceptionlabs.ai/",
+      "color": "#FF5733",
+      "category": "Development",
+      "description": "An AI language model developed by Inception Labs, utilizing diffusion techniques to generate code faster and more efficiently than traditional models."
+  }
+  
 ]
