@@ -3,36 +3,43 @@
         "name": "ChatGPT",
         "url": "https://chat.openai.com/",
         "color": "#10A37F",
-        "category": "Chatbots",
+        "category": "AI Chatbot",
         "description": "An AI language model developed by OpenAI, designed to generate human-like text based on input prompts."
     },
     {
         "name": "Claude",
         "url": "https://claude.ai/",
         "color": "#FF6F61",
-        "category": "AI Assistant",
+        "category": "AI Chatbot",
         "description": "An AI assistant developed by Anthropic, designed to assist with various tasks such as writing, research, coding, and math, utilizing advanced language models to provide detailed and relevant responses."
     },
     {
         "name": "Grok",
         "url": "https://x.ai/grok",
         "color": "#1DA1F2",
-        "category": "Chatbots",
+        "category": "AI Chatbot",
         "description": "xAI's chatbot designed to provide an alternative perspective to mainstream AI models, emphasizing free speech."
     },
     {
         "name": "Gemini",
         "url": "https://gemini.google.com/",
         "color": "#4285F4",
-        "category": "Chatbots",
+        "category": "AI Chatbot",
         "description": "Google's AI chatbot integrated into various services, offering conversational assistance and information retrieval."
     },
     {
         "name": "Character.ai",
         "url": "https://beta.character.ai/",
         "color": "#FF4500",
-        "category": "Chatbots",
+        "category": "AI Chatbot",
         "description": "A platform allowing users to create and interact with user-generated AI characters, simulating various personalities."
+    },
+    {
+        "name": "DeepSeek Chat",
+        "url": "https://chat.deepseek.com/",
+        "color": "#FF4500",
+        "category": "AI Chatbot",
+        "description": "DeepSeek Chat is an AI chatbot developed by DeepSeek, capable of answering questions, solving logic problems, and writing computer programs."
     },
     {
         "name": "Microsoft Copilot",
@@ -52,7 +59,7 @@
         "name": "Mistral AI",
         "url": "https://mistral.ai/",
         "color": "#1E90FF",
-        "category": "Artificial Intelligence",
+        "category": "AI Model & Research",
         "description": "A French AI startup specializing in open-weight large language models, offering advanced AI solutions and services."
     },
     {
@@ -66,8 +73,7 @@
         "name": "Meta AI",
         "url": "https://www.meta.ai/",
         "color": "#4267B2",
-        "category": "AI Research and Development",
+        "category": "AI Model & Research",
         "description": "Meta AI is the artificial intelligence research division of Meta Platforms, focusing on advancing AI technologies and their applications across various domains."
     }
-      
 ]
