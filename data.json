@@ -6,13 +6,7 @@
     "description": "Google's conversational AI assistant",
     "category": "Chatbots"
   },
-  {
-    "name": "Qwen",
-    "url": "https://chat.qwen.ai/",
-    "color": "#00A1D6",
-    "description": "Alibaba's advanced language model",
-    "category": "Chatbots"
-  },
+
   {
     "name": "ChatGPT",
     "url": "https://chat.openai.com/",
