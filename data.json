@@ -1,37 +1,38 @@
 [
-    {
-        "name": "ChatGPT",
-        "url": "https://chat.openai.com/",
-        "color": "#10A37F",
-        "category": "Chatbots",
-        "description": "An AI language model developed by OpenAI, designed to generate human-like text based on input prompts."
-    },
-    {
-        "name": "Claude",
-        "url": "https://www.anthropic.com/claude",
-        "color": "#FF6F61",
-        "category": "Chatbots",
-        "description": "Anthropic's AI assistant capable of conversational tasks, offering a focus on safety and reliability."
-    },
-    {
-        "name": "Grok",
-        "url": "https://x.ai/grok",
-        "color": "#1DA1F2",
-        "category": "Chatbots",
-        "description": "xAI's chatbot designed to provide an alternative perspective to mainstream AI models, emphasizing free speech."
-    },
-    {
-        "name": "Gemini",
-        "url": "https://gemini.google.com/",
-        "color": "#4285F4",
-        "category": "Chatbots",
-        "description": "Google's AI chatbot integrated into various services, offering conversational assistance and information retrieval."
-    },
-    {
-        "name": "Character.ai",
-        "url": "https://beta.character.ai/",
-        "color": "#FF4500",
-        "category": "Chatbots",
-        "description": "A platform allowing users to create and interact with user-generated AI characters, simulating various personalities."
-    }
+  {
+    "name":"Gemini",
+    "url":"https://gemini.google.com/app",
+    "color":"#DB4437",
+    "category":"Chatbots",
+    "description":"Get help with writing, planning, learning, and more from Google AI."
+  },
+  {
+    "name": "Qwen",
+    "url": "https://chat.qwen.ai/",
+    "color": "#00A1D6",
+    "description": "Alibaba's advanced language model",
+    "category": "Chatbots"
+    "category": "Chatbots"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com/",
+    "color": "#10A37F",
+    "description": "OpenAI's popular chat assistant",
+    "category": "Chatbots"
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai/chats",
+    "color": "#5436DA",
+    "description": "Anthropic's helpful AI assistant",
+    "category": "Chatbots"
+  },
+  {
+    "name": "Inception Labs",
+    "url": "https://chat.inceptionlabs.ai/",
+    "color": "#FF5733",
+    "description": "Creative language model for developers",
+    "category": "Developer Tools"
+  }
 ]
