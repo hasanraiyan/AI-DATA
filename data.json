@@ -75,5 +75,27 @@
         "color": "#4267B2",
         "category": "Research",
         "description": "Meta AI is the artificial intelligence research division of Meta Platforms, focusing on advancing AI technologies and their applications across various domains."
+    },
+    {
+        "name": "Bolt.new",
+        "url": "https://bolt.new/",
+        "color": "#FF5733",
+        "category": "Development",
+        "description": "An AI-powered web development platform by StackBlitz that enables users to prompt, run, edit, and deploy full-stack web and mobile applications directly from the browser without local setup."
+    },
+    {
+        "name": "V0",
+        "url": "https://v0.dev/",
+        "color": "#000000",
+        "category": "Development",
+        "description": "An AI-powered UI builder that generates React and Tailwind components from text prompts, enabling fast prototyping and code generation for developers."
+    },
+    {
+        "name": "Pi",
+        "url": "https://pi.ai/",
+        "color": "#FF5733",
+        "category": "Chatbot",
+        "description": "An AI chatbot developed by Inflection AI, designed to function as a personal assistant, providing users with conversational support and information."
     }
+            
 ]
